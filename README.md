@@ -76,18 +76,15 @@ Deep Learning based plant disease detection project using image classification.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/HarishMayakuntla">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/harish-mayakuntla/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/HarishMayakuntla)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+📧 Email: mayakuntlaharish7@gmail.com
+
+
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
 
@@ -97,3 +94,5 @@ Deep Learning based plant disease detection project using image classification.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarishMayakuntla&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarishMayakuntla&layout=compact&theme=tokyonight)
+
+---
