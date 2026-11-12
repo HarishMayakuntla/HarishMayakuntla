@@ -90,3 +90,10 @@ Deep Learning based plant disease detection project using image classification.
 ---
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarishMayakuntla&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarishMayakuntla&layout=compact&theme=tokyonight)
